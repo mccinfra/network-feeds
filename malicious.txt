@@ -82,5 +82,4 @@
 103.107.196.148
 
 ### Domains and FQDNs ###
-.marsello.io
-.caspio.com
+
